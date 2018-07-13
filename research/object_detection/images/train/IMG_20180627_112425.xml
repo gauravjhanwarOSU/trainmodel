@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Blueberry Kix n golden oreos- low res</folder>
+	<filename>IMG_20180627_112425.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\lowres\Images- low res\Blueberry Kix n golden oreos- low res\IMG_20180627_112425.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kix Berry -568919964</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>504</ymin>
+			<xmax>522</xmax>
+			<ymax>681</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Kix Crispy Corn-550051312</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>524</ymin>
+			<xmax>244</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

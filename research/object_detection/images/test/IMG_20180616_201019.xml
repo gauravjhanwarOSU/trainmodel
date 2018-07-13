@@ -1,0 +1,26 @@
+<annotation>
+	<folder>720kb</folder>
+	<filename>IMG_20180616_201019.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\720kb\IMG_20180616_201019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>899</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chips Ahoys-565717529</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>522</ymin>
+			<xmax>342</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

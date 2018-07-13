@@ -1,0 +1,50 @@
+<annotation>
+	<folder>720kb</folder>
+	<filename>IMG_20180616_195132.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\720kb\IMG_20180616_195132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>899</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oreo-563424384</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>4</ymin>
+			<xmax>362</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chips Ahoys-565717529</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>19</ymin>
+			<xmax>526</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Honey Comb- 009288857</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>631</xmin>
+			<ymin>332</ymin>
+			<xmax>834</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

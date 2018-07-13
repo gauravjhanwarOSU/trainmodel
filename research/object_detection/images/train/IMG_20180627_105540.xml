@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Blueberry Kix n golden oreos- low res</folder>
+	<filename>IMG_20180627_105540.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\lowres\Images- low res\Blueberry Kix n golden oreos- low res\IMG_20180627_105540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2118</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oreo Golden-568301011</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1001</xmin>
+			<ymin>326</ymin>
+			<xmax>1176</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mini Wheats Straw-567084832</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>329</ymin>
+			<xmax>371</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>

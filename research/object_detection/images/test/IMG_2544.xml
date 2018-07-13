@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Blueberry Kix n golden oreos- low res</folder>
+	<filename>IMG_2544.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\lowres\Images- low res\Blueberry Kix n golden oreos- low res\IMG_2544.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nutter Butter-565717511</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>265</ymin>
+			<xmax>358</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dippin Dots Cookies &amp; Cream -568929378</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>272</ymin>
+			<xmax>507</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

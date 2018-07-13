@@ -1,0 +1,38 @@
+<annotation>
+	<folder>720kb</folder>
+	<filename>IMG_20180616_200157.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\720kb\IMG_20180616_200157.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>899</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oreo-563424384</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>85</ymin>
+			<xmax>382</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chips Ahoys-565717529</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>82</ymin>
+			<xmax>207</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

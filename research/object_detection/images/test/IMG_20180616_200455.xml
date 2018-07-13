@@ -1,0 +1,38 @@
+<annotation>
+	<folder>720kb</folder>
+	<filename>IMG_20180616_200455.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\720kb\IMG_20180616_200455.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>899</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey Comb- 009288857</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>201</ymin>
+			<xmax>566</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Oreo-563424384</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>244</ymin>
+			<xmax>814</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

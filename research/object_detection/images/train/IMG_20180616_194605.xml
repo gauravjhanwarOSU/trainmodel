@@ -1,0 +1,26 @@
+<annotation>
+	<folder>720kb</folder>
+	<filename>IMG_20180616_194605.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\720kb\IMG_20180616_194605.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>899</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oreo-563424384</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>53</ymin>
+			<xmax>341</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

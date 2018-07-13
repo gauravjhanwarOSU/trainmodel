@@ -1,0 +1,26 @@
+<annotation>
+	<folder>720kb</folder>
+	<filename>IMG_20180616_200351.jpg</filename>
+	<path>C:\Users\jhanw\Desktop\720kb\IMG_20180616_200351.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>899</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Honey Comb- 009288857</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>49</ymin>
+			<xmax>822</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>
