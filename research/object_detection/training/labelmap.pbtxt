@@ -1,0 +1,84 @@
+item {
+  id: 1
+  name: 'Oreo-563424384'
+}
+
+item {
+  id: 2
+  name: 'Chips Ahoys-565717529'
+}
+
+item {
+  id: 3
+  name: 'Honey Comb- 009288857'
+}
+
+item {
+  id: 4
+  name: 'Cocoa Puffs Ice Cream-563408546'
+}
+
+
+item {
+  id: 5
+  name: 'Nilla -568301014'
+}
+
+item {
+  id: 6
+  name: 'Honey Maid Graham -563424385'
+}
+
+item {
+  id: 7
+  name: 'Cocoa Pebbles-555517893'
+}
+
+item {
+  id: 8
+  name: 'Dippin Dots Cookies & Cream -568929378'
+}
+
+
+item {
+  id: 9
+  name: 'Dippin Dots Banana-568929376'
+}
+
+item {
+  id: 10
+  name: 'Mini Wheats Straw-567084832'
+}
+
+
+item {
+  id: 11
+  name: 'Frosted Mini Original -92958692'
+}
+
+
+item {
+  id: 12
+  name: 'Nutter Butter-565717511'
+}
+
+
+item {
+  id: 13
+  name: 'Kix Honey -009258981'
+}
+
+item {
+  id: 14
+  name: 'Kix Crispy Corn-550051312'
+}
+
+item {
+  id: 15
+  name: 'Kix Berry -568919964'
+}
+
+item {
+  id: 16
+  name: 'Oreo Golden-568301011'
+}
